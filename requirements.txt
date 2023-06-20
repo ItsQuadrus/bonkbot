@@ -1,0 +1,3 @@
+discord.py==2.3.0
+python-dotenv==1.0.0
+discord-py-slash-command==4.2.1
