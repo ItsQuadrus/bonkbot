@@ -18,11 +18,11 @@ This is a Discord bot built using discord.py with slash commands. It can query B
 ```bash
 git clone https://github.com/ItsQuadrus/BonkBot.git
 cd BonkBot
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-echo "DISCORD_TOKEN=your-token-here" > .env #
-py src
+echo TOKEN=your-token-here > .env
+python3 src
 ```
 *Windows (cmd)*
 ```bat
@@ -31,7 +31,7 @@ cd BonkBot
 python -m venv venv
 venv\Scripts\activate.bat
 pip install -r requirements.txt
-echo DISCORD_TOKEN=your-token-here > .env
+echo TOKEN=your-token-here > .env
 py src
 ```
 
