@@ -1,4 +1,5 @@
 # BonkBot
+> WARNING: NO LONGER MAINTAINED!
 
 This is a Discord bot built using discord.py with slash commands. It can query Bonk.io API. It still is in WIP and only contains the `!status` command at the moment.
 
