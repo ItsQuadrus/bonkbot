@@ -79,10 +79,3 @@ py src
 ```
 
 6. Invite the bot to your server and type `!status`.
-
-## License
-This project is licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
-
-You are free to use this code for any purpose, commercial or non-commercial. **Attribution is required: you must give credit to the original author.**
-
-You also need to **indicate if changes were made.** e.g. "Translation of BonkBot by ItsQuadrus"
