@@ -1,4 +1,4 @@
-"""BonkBot by ItsQuadrus - Licensed under Attribution 3.0 Unported"""
+"""BonkBot by ItsQuadrus - Licensed under GNU GENERAL PUBLIC LICENSE"""
 import os
 import json
 import datetime
